@@ -4,5 +4,6 @@ Espace destiné à recenser les besoins, idées, bug concernant les web services
 
 Remarques :
 
-- Ce dépôt ne pourra dans un premier temps pas acceuilir les codes sources des webservices de l'Abes car cela nécessiterait un gros travail de nettoyage. L'ouverture des codes sources des webservice Abes sera réalisée à l'occasion d'une future refonte.
+- Ce dépôt ne pourra dans un premier temps pas accueillir les codes sources des webservices de l'Abes car cela nécessiterait un gros travail de nettoyage. L'ouverture des codes sources des webservice Abes sera réalisée à l'occasion d'une future refonte.
 - L'amélioration de la [documentation utilisateur des web services Abes](http://www.abes.fr/Espace-Pro-Acces-direct-a/Utiliser-les-web-services) sera prochainement en réflexion et pourra prendre dans le futur d'autres formes par exemple en nous appuyant sur le standard [OpenAPI](https://www.openapis.org/) 
+
