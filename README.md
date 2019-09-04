@@ -1,6 +1,6 @@
 # abes-webservices
 
-Espace destiné à recenser les besoins, idées, bug concernant les web services de l'Abes => ["Issues"](https://github.com/abes-esr/abes-webservices/issues).
+Espace destiné à recenser et suivre les besoins, idées, bug concernant les web services de l'Abes => ["Issues"](https://github.com/abes-esr/abes-webservices/issues).
 
 Remarques :
 
