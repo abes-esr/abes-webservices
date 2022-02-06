@@ -16,3 +16,6 @@ Les descriptions [OpenAPI](https://www.openapis.org/) avec espaces démo des web
   - API Sudoc : https://api.gouv.fr/les-api/api-sudoc
   - API IdRef : https://api.gouv.fr/les-api/api-idref
 
+Copie d'écran de l'espace démo OpenAPI des API du Sudoc :
+
+<img src="https://user-images.githubusercontent.com/328244/152673084-f1e665ed-7d32-4cb6-ae0d-da2e133bd7c4.png" width="400" />
