@@ -12,7 +12,7 @@ La liste des web services de l'Abes est disponible sur le site institutionnel ic
   - La documentation développeur des API de BACON : http://documentation.abes.fr/aidebacon/index.html#webservices
   - La documentation développeur des API de Calames : http://documentation.abes.fr/aidecalames/manuelinformaticien/index.html#webservices
 
-Les descriptions [OpenAPI](https://www.openapis.org/) avec espaces démo des web services de l'Abes est disponible ici : https://api.gouv.fr/producteurs/abes
+Les descriptions [OpenAPI](https://www.openapis.org/) avec espaces démo des web services de l'Abes sont disponibles ici : https://api.gouv.fr/producteurs/abes
   - API Sudoc : https://api.gouv.fr/les-api/api-sudoc
   - API IdRef : https://api.gouv.fr/les-api/api-idref
 
